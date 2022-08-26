@@ -586,3 +586,9 @@ found 0 vulnerabilities
 - TODOAPP が動いている。
 
 ![ionic_ipad](./assets/ionic_ipad.png)
+
+- アプリがどう表示されているのか確認する
+  - `index.html`
+  - `main.ts`
+  - `app/app.module`
+  - `app.component.[html|ts]`
